@@ -6,3 +6,4 @@ This repository has a parser for parsing product names og Gold Apple (https://go
 It will take some time. Because there are a lot of goods!
 
 Download all requirements:
+chromedriver
