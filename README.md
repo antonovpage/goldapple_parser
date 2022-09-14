@@ -1,5 +1,5 @@
 # goldapple_parser
-Web scrapping Gold Apple goods and price
+Web scrapping Gold Apple goods and price and save info in Excel file.
 
 This repository has a parser for parsing product names og Gold Apple (https://goldapple.ru/) and their prices.
 
